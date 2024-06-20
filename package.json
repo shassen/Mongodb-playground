@@ -1,0 +1,25 @@
+{
+  "name": "Mongodb-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shassen/Mongodb-playground.git",
+  "author": "shawn.hassen <shawn.hassen@zoom.us>",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "webpack-dev-server --config webpack.config.js"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "fastify": "^4.28.0",
+    "mongoose": "^8.4.3",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.6",
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}
