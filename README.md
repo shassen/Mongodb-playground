@@ -4,11 +4,13 @@ mongodb playground community page:
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
 
 To start the mongodb service:
-`brew services start mongodb-community@7.0`
-`brew services stop mongodb-community@7.0`
+
+- `brew services start mongodb-community@7.0`
+- `brew services stop mongodb-community@7.0`
 
 to check the list of running services:
-`brew services list`
+
+- `brew services list`
 
 Some prerequisites:
 
