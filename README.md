@@ -38,3 +38,7 @@ Enter mongodb shell:
 - db.<collection_name>.update({ key: value }, $set: { key: value })
 - db.first_collection.update({ name: 'Shawn' }, $set: { age: 35 })
 - This would locate the document with the name 'Shawn' and update the name property to 35.
+
+6. To exit the mongodb shell:
+
+- type: `exit`.
