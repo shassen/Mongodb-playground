@@ -47,7 +47,7 @@ A helpful youtube video from Web Dev Simplified that covers the mongodb shell qu
 
 - https://www.youtube.com/watch?v=ofme2o29ngU
 
-A Mongodb cheatsheet:
+A Mongodb cheatsheet also from Web Dev Simplified:
 
 - [Mongodb-cheatsheet.pdf](https://github.com/user-attachments/files/15907608/Dark.pdf)
 
