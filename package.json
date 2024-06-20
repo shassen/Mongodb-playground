@@ -7,10 +7,12 @@
   "license": "MIT",
   "type": "commonjs",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.config.js"
+    "start": "webpack-dev-server --config webpack.config.js",
+    "devStart": "nodemon server.js"
   },
   "dependencies": {
     "@types/mongoose": "^5.11.97",
+    "express": "^4.19.2",
     "fastify": "^4.28.0",
     "mongoose": "^8.4.3",
     "typescript": "^5.4.5"
@@ -20,6 +22,8 @@
     "ts-loader": "^9.5.1",
     "webpack": "^5.92.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.0.4"
+    "webpack-dev-server": "^5.0.4",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.3"
   }
 }

@@ -42,3 +42,7 @@ Enter mongodb shell:
 6. To exit the mongodb shell:
 
 - type: `exit`.
+
+A helpful youtube video from Web Dev Simplified that covers the mongodb shell queries and operators
+
+- https://www.youtube.com/watch?v=ofme2o29ngU
